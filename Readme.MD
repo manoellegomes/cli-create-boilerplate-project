@@ -10,13 +10,13 @@ Um CLI bem simples para facilitar a criação de projetos. Ele cria um diretóri
   
 ## Installation
 
-Run `npm install` to install all dependencies.
-Run `npm install -g .` to install globally.
+* Run `npm install` to install all dependencies.
+* Run `npm install -g .` to install globally.
 
 ## How to use
 
-Run `create-ms nome-do-seu-ms`.
-Run `cd nome-do-seu-ms`.
+* Run `create-ms nome-do-seu-ms`.
+* Run `cd nome-do-seu-ms`.
 
 ## For further information
 
