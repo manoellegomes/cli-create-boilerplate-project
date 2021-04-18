@@ -34,7 +34,7 @@ function clone() {
     try {
         console.log("Olá, vamos clonar um boilerplate de MS com a estrutura padrão!");
         const cmd = run('git', ['clone', '--depth=1', url, dest]);
-        console.log('CLONE', cmd);
+        
         if (cmd.status == 0) {
             run('rm', ['-rf', `${dest}/.git`]);
         }
