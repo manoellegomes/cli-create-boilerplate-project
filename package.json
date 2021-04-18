@@ -1,0 +1,20 @@
+{
+  "name": "cli-create-ms",
+  "version": "1.0.0",
+  "description": "It's a boilerplate to create a new MS easily",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Elaine Manoelle",
+  "license": "ISC",
+  "bin": {
+    "create-ms": "./bin/index.js"
+  },
+  "dependencies": {
+    "boxen": "^5.0.1",
+    "chalk": "^4.1.0",
+    "esm": "^3.2.25",
+    "yargs": "^16.2.0"
+  }
+}
