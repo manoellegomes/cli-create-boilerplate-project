@@ -1,5 +1,5 @@
 {
-  "name": "cli-create-ms",
+  "name": "cli-boilerplate-ms",
   "version": "1.0.0",
   "description": "It's a boilerplate to create a new MS easily",
   "main": "bin/index.js",
