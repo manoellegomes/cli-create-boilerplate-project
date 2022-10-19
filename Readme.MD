@@ -17,8 +17,3 @@ Um CLI bem simples para facilitar a criação de projetos. Ele cria um diretóri
 
 * Run `create-ms nome-do-seu-projeto`.
 * Run `cd nome-do-seu-projeto`.
-
-## For further information
-
-* Email: elainedevwoman@gmail.com
-* Social Network: www.linkedin.com/in/elainemanoelle.
